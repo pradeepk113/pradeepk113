@@ -2,7 +2,7 @@
 
 ## :white_medium_small_square: About me 🧑:
 
-I am Ashish Kumar Saini (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
+I am Pradeep Kumar Singh (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
 I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
 
@@ -40,11 +40,11 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: Find Me on📱 :
 
 <div>
-  <a href="https://twitter.com/its___ashish" target="_blank">
+  <a href="https://twitter.com/Pradeep75165355" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/ashish-kumar-saini-b40a41174/" target="_blank">
+  <a href="https://www.linkedin.com/in/pradeepsinghit/" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedin logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
@@ -56,8 +56,8 @@ You can find my work on my <a href="https://ashish8796.github.io/portfolio" targ
 ## :white_medium_small_square: GitHub Stats 📊 :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish8796&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pksingh0315&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish8796&theme=tokyonight" height="254px" width="27.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksingh0315&theme=tokyonight" height="254px" width="27.5%" />
 
 </div>
