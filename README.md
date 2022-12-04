@@ -2,7 +2,7 @@
 
 ## :white_medium_small_square: About me 🧑:
 
-I am Pradeep Kumar Singh (he/him) from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
+I am Pradeep Kumar Singh  from Uttar Pradesh, India. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
 
 I am skilled in HTML, CSS, Javascript, Typescript, ReactJS, React Native, Redux, React Router, Node, Mongodb, MySQL, Express. I am good in data structure and algorithms.
 
@@ -23,7 +23,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: I am Skilled in :hammer: :
 
 <div  align="center">
-      <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/1216/1216733.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT6oHldUPmZf_m6dpRUdkRfK2C974pylwCcPw2_FY&s">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg">&nbsp;&nbsp;&nbsp;&nbsp;
       <img height="40" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg">&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -40,7 +40,7 @@ When I am not coding, I love reading📖, listening music🎧 and watching carto
 ## :white_medium_small_square: Find Me on📱 :
 
 <div>
-  <a href="https://twitter.com/Pradeep75165355" target="_blank">
+  <a href="https://twitter.com/PradeepK113" target="_blank">
     <img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter logo" width="20" height="20"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,8 +56,8 @@ You can find my work on my <a href="https://ashish8796.github.io/portfolio" targ
 ## :white_medium_small_square: GitHub Stats 📊 :
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pksingh0315&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pradeepk113&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksingh0315&theme=tokyonight" height="254px" width="27.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepk&theme=tokyonight" height="254px" width="27.5%" />
 
 </div>
