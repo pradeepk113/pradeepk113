@@ -55,8 +55,9 @@ You can find my work on my <a href="https://portfolio-pradeepk113.vercel.app/" t
 
 ## :white_medium_small_square: GitHub Stats 📊 :
 
+ <!-- https://github-readme-stats.vercel.app/api?username=pradeepk113&show_icons=true&theme=radical -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=pradeepk113&show_icons=true&theme=radical" height="255px" width="66.75%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=pradeepk113&show_icons=true&theme=radical" height="255px" width="66.75%"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepk113&theme=tokyonight" height="254px" width="27.5%" />
 
